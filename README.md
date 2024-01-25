@@ -3,7 +3,6 @@
     Simple OTP Bot, working with any company or service name.
     New OTP Bot, working with any company or service name to fetch otp code.
 
-
 ![See the bot in action](https://user-images.githubusercontent.com/117955242/203935966-e3e8ee3c-384b-448d-b86b-d5189d66b585.png)
 
     Send command: "/dial" to start grabbing your OTP
