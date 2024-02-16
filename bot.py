@@ -1,6 +1,6 @@
 import time
 import os
-import discord_slash.utils.manage_commands
+import discord_slash.utils.manage_commands 
 import requests
 import discord
 import os
