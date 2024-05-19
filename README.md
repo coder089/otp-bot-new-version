@@ -16,25 +16,19 @@
 # For Customization or Private OTP Bots Contact me on my new Chennel and Server
 
     Discord Server:  https://discord.gg/CVgscsvRRx
-    Telegram Channel https://t.me/+I2QcslRt8HM2YTEx
+    Telegram Channel https://t.me/+0Pyh0kUCHlE3ZGZh
     DM Discord: Coder089#8305
-    DM Telegram: @Coder0089
+    DM Telegram: @coder00089
 Discord Server: https://discord.gg/CVgscsvRRx
 
-NEW Telegram Channel https://t.me/+I2QcslRt8HM2YTEx
+NEW Telegram Channel https://t.me/+0Pyh0kUCHlE3ZGZh
 
+Old Telegram Channel https://t.me/+I2QcslRt8HM2YTEx
 Old Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
-
-    (Old Channels are Banned)
-    https://discord.gg/ghHtyDevI
-    https://t.me/+uftsns3gsKhdLfc1tUy
-    https://t.me/+fzkvq8FdnQY2ZmNh
-
 
 # Buy me coffee: 
 
     Ethereum: 0x06F0ff15A132410389C41fd4B52c9E458666F579
-    Bitcoin: bc1qw9rzd4ze0c43fklj2hnlzrtw3ps7mx7w5pl7mk
     BNB: bnb19l2tz4y5jlwdtrk0v9jkenhmv05kuy2y327mv9
     LTC: ltc1qs89vzwyete5jnn5mcpqp2zvrlzv8gdwq0a4tt6
   
