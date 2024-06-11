@@ -7,7 +7,7 @@
 
     Send command: "/dial" to start grabbing your OTP
 
-# THIS SOURCE CODE IS FREE AND FOR EDUCATION PURPOSE ONLY. 
+# THIS SOURCE CODE IS FREE AND FOR EDUCATION PURPOSE ONLY.
 
     For Step-By-Step Installation Process Join My Discord Server.
     And For more advanced Discord and Telegram OTP Bots.
